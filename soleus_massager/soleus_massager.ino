@@ -1,5 +1,5 @@
 // -------------------------------
-// Soleus Massager - ESP8266 आधारित सिस्टम
+// Soleus Massager - ESP8266
 // Adjustable Inflation Time
 // -------------------------------
 
